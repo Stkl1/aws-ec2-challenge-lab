@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Welcome to My AWS EC2 Project</h1>
+<p>Hosted on Amazon EC2</p>
+</body>
+</html>
